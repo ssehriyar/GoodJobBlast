@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 216b2c30f1957874982c1df5a9c2248b, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  firstIconNumber: 4
+  secondIconNumber: 7
+  thirdIconNumber: 9
+  numberOfColors: 6
+  cubes:
+  - matchType: 0
+    icon:
+    - {fileID: 21300000, guid: 6c38beca08bc3c748baf5ce3b2de0a47, type: 3}
+    - {fileID: 21300000, guid: 8af0136a05711a84e9155861d7864de5, type: 3}
+    - {fileID: 21300000, guid: 74d4b8dfd031b6d4a969dc4d7246b6b0, type: 3}
+    - {fileID: 21300000, guid: 5c7290220cd1db34884f7b1dcd0826ec, type: 3}
+  - matchType: 1
+    icon:
+    - {fileID: 21300000, guid: b2e69944fe7ad3744a8ab504e5f7ef72, type: 3}
+    - {fileID: 21300000, guid: 27fb7ed46c1f2a644860d21a947d9b5f, type: 3}
+    - {fileID: 21300000, guid: 7363c40fd9d25f441bc080a39cdf36f0, type: 3}
+    - {fileID: 21300000, guid: 834ed56e1edfda24e94819b3fabe86d8, type: 3}
+  - matchType: 2
+    icon:
+    - {fileID: 21300000, guid: 796b3f85e8ceefa43a7eb106be9b7f29, type: 3}
+    - {fileID: 21300000, guid: 255a64050e315b4488516df5739d7d90, type: 3}
+    - {fileID: 21300000, guid: 6bc2d4cd43876b242bee1b66eefef18e, type: 3}
+    - {fileID: 21300000, guid: be75f2c71ec7ead469eb696e9489fd83, type: 3}
+  - matchType: 3
+    icon:
+    - {fileID: 21300000, guid: 68102bdcd78763d4196c4998791c095f, type: 3}
+    - {fileID: 21300000, guid: 32ce210c83ae77243b723d79ed93a0cf, type: 3}
+    - {fileID: 21300000, guid: ff56adb8fcf7459489cadb21d90533ed, type: 3}
+    - {fileID: 21300000, guid: 7107fc4cfbe3e8543baf733c582756da, type: 3}
+  - matchType: 4
+    icon:
+    - {fileID: 21300000, guid: 41a495d7feaca8346a05eb4deb3bc27c, type: 3}
+    - {fileID: 21300000, guid: bf509df0598245f40ae1c6158a16c306, type: 3}
+    - {fileID: 21300000, guid: 72f69a764f081da48adad058f4193e42, type: 3}
+    - {fileID: 21300000, guid: 8913490dc9fbe234aa943d959b0ef7e3, type: 3}
+  - matchType: 5
+    icon:
+    - {fileID: 21300000, guid: d657b9c742f3f0240843f3eddc708790, type: 3}
+    - {fileID: 21300000, guid: 6ac45dfd38455df44871020f3c4cda90, type: 3}
+    - {fileID: 21300000, guid: 719ad52a3bd7341478f1d5f98110d27b, type: 3}
+    - {fileID: 21300000, guid: 501df29484247264ea1bce1d61e20f92, type: 3}
